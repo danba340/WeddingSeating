@@ -38,7 +38,7 @@ let guests = (function() {
     return json;
 })();
 
-selectPerson.append(`<option value="null">Hitta din plats...</option>`);
+selectPerson.append(`<option value="null"> Hitta din plats...</option>`);
 
 guests.forEach((guest, index) => {
     if ( index <= 11 ) {
@@ -75,6 +75,13 @@ guests.forEach((guest, index) => {
     `<div data-index="${ index }" style="top:${ guest.y };left:${ guest.x };" class="marker">
     </div>`
     spotsWrapper.append(marker);
+});
+let options = $('select option');
+let arr = options.map(function(_, o) { return { t: $(o).text(), v: o.value }; }).get();
+arr.sort(function(o1, o2) { return o1.t > o2.t ? 1 : o1.t < o2.t ? -1 : 0; });
+options.each(function(i, o) {
+  o.value = arr[i].v;
+  $(o).text(arr[i].t);
 });
 let markers = $('.marker');
 markers.click((marker) => {
