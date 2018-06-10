@@ -50,23 +50,23 @@ guests.forEach((guest, index) => {
     } else if ( index > 23 && index <= 34 ) {
         guests[index].x = "28%";
         guests[index].y = ((index - 23 ) * 6) + 7.6 + "%";
-    } else if ( index > 37 && index <= 49 ) { 
+    } else if ( index > 34 && index <= 46 ) { 
         guests[index].x = "40.4%";
-        guests[index].y = ((index - 37 ) * 6) + 1.6 + "%";
-    } else if ( index > 49 && index <= 61 ) { 
+        guests[index].y = ((index - 34 ) * 6) + 1.6 + "%";
+    } else if ( index > 46 && index <= 58 ) { 
         guests[index].x = "53%";
-        guests[index].y = ((index - 49 ) * 6) + 1.6 + "%";
-    } else if ( index > 61 && index <= 73 ) { 
+        guests[index].y = ((index - 46 ) * 6) + 1.6 + "%";
+    } else if ( index > 58 && index <= 70 ) { 
         guests[index].x = "66%";
-        guests[index].y = ((index - 61 ) * 6) + 1.6 + "%";
-    } else if ( index > 73 && index <= 86 ) { 
+        guests[index].y = ((index - 58 ) * 6) + 1.6 + "%";
+    } else if ( index > 70 && index <= 83 ) { 
         guests[index].x = "78.5%";
-        guests[index].y = ((index - 73 ) * 6) - 4.5 + "%";
-    } else if ( index > 86 && index <= 99 ) { 
+        guests[index].y = ((index - 70 ) * 6) - 4.5 + "%";
+    } else if ( index > 83 && index <= 96 ) { 
         guests[index].x = "91%";
-        guests[index].y = ((index - 86 ) * 6) - 4.5 + "%";
+        guests[index].y = ((index - 83 ) * 6) - 4.5 + "%";
     } else {
-        guests[index].x = ((index - 99 ) * 6.95) + 1.4 + "%";
+        guests[index].x = ((index - 96 ) * 6.95) + 1.4 + "%";
         guests[index].y = "92%";
     }
     let htmlOption = `<option value="${ index }">${ guest.name }</option>`;
