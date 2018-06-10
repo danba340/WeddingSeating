@@ -1,0 +1,102 @@
+body {
+    font-family: system-ui;
+    letter-spacing: 0.7px;
+}
+.spots-wrapper {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+}
+.select-wrapper {
+    text-align: center;
+    min-height: 50px;
+    position: relative;
+    
+}
+.select-wrapper select {
+    height: 40px;
+    background: #95b29b;
+    color: white;
+    font-size: 18px;
+    padding-left: 5px; 
+}
+.name {
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+.dick {
+    font-size: 60px;
+    text-align: center;
+    padding-top: 200px;
+    -webkit-animation: rotation 4s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+    from {
+            -webkit-transform: rotate(0deg);
+    }
+    to {
+            -webkit-transform: rotate(359deg);
+    }
+}
+#spots {
+    width: 100%;
+}
+.spots-wrapper .marker {
+    position: absolute;
+    border: 2px solid #456154;
+    background: #95b29b;;
+    width: 5.454%;
+    height: 4.6914%;
+    border-radius: 40%;
+}
+.spots-wrapper .marker.active {
+    background: #ffdb82;
+}
+.spots-wrapper .marker.active .speech-bubble {
+    display: block;
+}
+.speech-bubble {
+    display: none;
+    position: absolute;
+    width: calc(95% - 40px);
+    left: 1%;
+    z-index: 2;
+	background: #ffdb82;
+    border-radius: .4em;
+    font-size: 20px;
+    padding: 10px 40px 10px 10px;
+}
+.speech-bubble:after {
+	content: '';
+	position: absolute;
+	top: 6%;
+	left: 15px;
+	width: 0;
+	height: 0;
+	border: 20px solid transparent;
+	border-bottom-color: #ffdb82;;
+	border-top: 0;
+	border-left: 0;
+	margin-left: -10px;
+	margin-top: -20px;
+}
+.speech-bubble:before {
+	content: 'x';
+    position: absolute;
+    font-size: 25px;
+	top: 5px;
+	right: 10px;
+	width: 20px;
+    height: 20px;
+    font-weight: bold;
+}
+.logo {
+    min-height: 500px;
+    text-align: center;
+}
+#logo-img {
+    margin-top: 30px;
+    width: 100%;
+}
