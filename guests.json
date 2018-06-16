@@ -1,331 +1,547 @@
 [ 
     {
         "name" : "Magdalena Mikmar",
-        "description": "Dansk ost i anus"
+        "id": 13,
+        "description": "När hon inte drar disney- eller Nalle Puh-citat tillsammans med V eller klår folk på TV-spel propsar hon troligtvis på nakenbad.  Såg, tillsammans med H&V och sin man <span class='link' data-link-to-id='15'>#15</span>, Stranger things säsong 2 på en helg. Gjorde att H kände sig välkomnad i ungdomsgänget i kyrkan."
     },
     {
         "name" : "Olof Mikmar",
-        "description": "Det finns en sägen om denna man. Han var med i ett diagram där man redde ut hur roligt hans namn var. Det var sådär, fast helt ok kul. Aa en hel del info finns om denna mannen alltså. Slars är hans bästa vän(och bror)."
+        "id": 15,
+        "description": "Delägare i Göteborgs bästa hotell. Duktig på bröllopsklänningar och att svänga sig med uttryck som han inte behärskar. Har tillsammans med V fått betala ''grova'' böter utomlands. Har tillsammans med sin fru <span class='link' data-link-to-id='13'>#13</span> med sig den yngsta deltagaren för kvällen."
     },
     {
-        "name" : "Viktor Bark"
+        "name" : "Viktor Bark",
+        "id": 17,
+        "description": "Killen som landat i byggbranschen och har ''målat'' diverse ritningar under tiden på Siemens där han extraknäckte som V. Trots att han har koll på alla senaste youtubeklipp finns det inget som slår fiske i Sävsjöström, som händelsevis bara är ett stenkast från sambon <span class='link' data-link-to-id='19'>#19's</span> hemtrakter. Känd för att hälla upp...lite."
     },
     {
-        "name" : "Cecilia Fransson"
+        "name" : "Cecilia Fransson",
+        "id": 19,
+        "description": "Händig svetsande gymnasielärare som offrat stora delar av sitt köksbord och fönster till förmån för tomatplantorna. Tycker om att uppmärksamma födelsedagar och diverse temadagar, t.ex 14:e mars. Är tillsammans med sambon <span class='link' data-link-to-id='17'>#17</span> nyexaminerad jägare."
     },
     {
-        "name" : "Johanna Davidsson"
+        "name" : "Johanna Davidsson",
+        "id": 21,
+        "description": "En av H's närmaste vänner och food sharing-kompis på Vapiano. DJ-kunskaper som bidragit till H's spellista och kvällens repertoar. Betydligt bättre på att baka goda bakverk än att vinna i spel. Hade dille på Vines när det fortfarande var en grej."
     },
     {
-        "name" : "Mikael Arvidsson"
+        "name" : "Mikael Arvidsson",
+        "id": 23,
+        "description": "Halmstadbo med många år i Östergötland under bältet utan att plocka upp dialekten. Tillsammans med sambon <span class='link' data-link-to-id='24'>#24</span> och deras två katter har de nu flyttat in i sitt nybyggda hus i Kimstad. Är en hejare på såväl flygledning som ballonguppblåsning."
     },
     {
-        "name" : "Malin Carlzon"
+        "name" : "Malin Carlzon",
+        "id": 25,
+        "description": "Glädjespridande lärarstudent med skinn på näsan som gärna återvinner H's läroböcker eller tillbringar lunchen med henne på Wayne's. Gick all-in med underbar dekoration på sitt lantliga bröllop i maj tillsammans med maken <span class='link' data-link-to-id='26'>#26</span>. "
     },
     {
-        "name" : "Andreas Klingstedt"
+        "name" : "Andreas Klingstedt",
+        "id": 27,
+        "description": "Siemensarbetande familjefar med stort sångintresse som tillsammans med frun <span class='link' data-link-to-id='28'>#28</span> har ett varmt, öppet och välkomnande hem för den som behöver. Skulle gärna vilja ha bättre koll på Gryts skärgård för att kunna vara med i snacket."
     },
     {
-        "name" : "Robin Harrysson"
+        "name" : "Robin Harrysson",
+        "id": 29,
+        "description": "Träsnidande markismontör som gillar amerikansk fotboll samt sport i mångt och mycket och imponeras lite mer än andra av vallmo. Ogillar när det dyker upp dolda uppdrag från frun <span class='link' data-link-to-id='31'>#31</span>. Delar V's förkerlek för fyrkantiga bord och golfspel på Gotland."
     },
     {
-        "name" : "Louise Harrysson"
+        "name" : "Louise Harrysson",
+        "id": 31,
+        "description": "Aktiv instagrammare som predikar, umgås med alla och startar nya mammagrupper. Hennes superkrafter, förutom att hinna med sitt eget liv, inkluderar; skicka roliga sms till V och sova när och var hon vill t.ex i Barks buss på väg till alperna med H&V och mannen <span class='link' data-link-to-id='29'>#29</span>."
     },
     {
-        "name" : "Cecilia Wahlström"
+        "name" : "Cecilia Wahlström",
+        "id": 33,
+        "description": "Pusslande redovisatör som är bra på matlagning till såväl sin familj, H&V och många andra. Håller inte bara ordning på sina barn men även sin man <span class='link' data-link-to-id='35'>#35</span> som hon föll för när hon jobbade som ungdomsledare. Har ikväll närmst till sängen."
     },
     {
-        "name" : "Josef Wahlström"
+        "name" : "Josef Wahlström",
+        "id": 35,
+        "description": "Nöjd och glad pessimist som gärna mekar bilar, båda egna och andras, men framförallt med sin fina folkabuss. Äger 200 kvadratmeter pressenning som främst lånas ut till såpabandy. Har snickrat huset, som delas med familj och fru <span class='link' data-link-to-id='33'>#33</span>, ut och in och fotar hellre än inte."
     },
     {
-        "name" : "Erika Davidsson"
+        "name" : "Erika Davidsson",
+        "id": 14,
+        "description": "En av H's närmaste vänner som alltid är glad och får andra att skratta, tyvärr är långväga skrattsmittning svårt från Göteborg. Stort Håkan-fan men går gärna all-in när det gäller mello med Samir&Victor också. Färdigutbildad socionom och självutnämnd krocketexpert."
     },
     {
-        "name" : "Maria Holmlander"
+        "name" : "Maria Holmlander",
+        "id": 16,
+        "description": "En av H's närmaste vänner som delar intresse för inredning, husletning och mysiga frukostdejter. Sopar banan med V i basket. Spenderade tre veckors tågluff hoppandes på kryckor, bland annat uppför Europas längsta vattenfall."
     },
     {
-        "name" : "Anders Kinell"
+        "name" : "Anders Kinell",
+        "id": 18,
+        "description": ""
     },
     {
-        "name" : "Malin Holmlander"
+        "name" : "Malin Holmlander",
+        "id": 20,
+        "description": "En av H's närmaste vänner som stöttat henne genom universitetsstudierna och gärna deltar i ideligen återkommande cykelhajker. Dygnade för att inte svika tjejgängets glassplaner trots nattskiftet. Så pass snäll att hon hellre skäller på den hårda fotbollsplanen än motståndarna. Tycker att pojkvännen <span class='link' data-link-to-id='18'>#18</span> har ett gammalt namn."
     },
     {
-        "name" : "Sofia Engdahl"
+        "name" : "Sofia Engdahl",
+        "id": 22,
+        "description": "H's klasskompis och vapendragare under examensarbetet, har stenkoll på läsförståelse och bedömningsstöd. Delar H&V's passion för ungdomsarbete. Saknar enligt hennes musiklärare känsla för takt men sjunger trots detta väldigt bra."
     },
     {
-        "name" : "Sofie Karlsson"
+        "name" : "Sofie Karlsson",
+        "id": 24,
+        "description": "Omtänksam studiekompis till H som, tack vare att LiU stavade hennes efternamn med K istället för C, blivit en bra vän. Har tillsammans med sambon <span class='link' data-link-to-id='23'>#23</span> besökt många av världens hörn och har redan bockat av H&V's destination för bröllopsresa och gett många bra tips. Ger idag H nöjet att tacka henne för de fina naglarna."
     },
     {
-        "name" : "Olle Carlzon"
+        "name" : "Olle Carlzon",
+        "id": 26,
+        "description": "Nybliven make till <span class='link' data-link-to-id='25'>#25</span> och tillika husägare med densamme i Östra Husby. Räddade livet på en hjärtinfarktsdrabbad medpassagerare på bussen på väg till jobbet. Antalet hjärnskakningar är svårräknade, antalet handbollsmatcher än mer."
     },
     {
-        "name" : "Anuradha Klingstedt"
+        "name" : "Anuradha Klingstedt",
+        "id": 28,
+        "description": "Sjuksköterskan som numera även titulerar sig fröken, trots att hon är gift med maken <span class='link' data-link-to-id='27'>#27</span>. H's bästa pendlarkompis som gärna delar såväl humor som allvarliga samtal under bussresorna. Missar ogärna en föreläsning men ännu mindre en middag på Joans med familj eller vänner."
     },
     {
-        "name" : "David Axelsson"
+        "name" : "David Axelsson",
+        "id": 30,
+        "description": "Dagens vigselförrättare. Sleeper-ligisten från Borggård som snart flyttar till Åbytorp med familj och fru <span class='link' data-link-to-id='32'>#32</span> där han fortsätter sin pastorskarriär. Lurade som liten sin lillebror att hans fisar luktade laktrits. Trodde att man inte kunde bajsa på sig i sömnen, hade fel. Slark..."
     },
     {
-        "name" : "Camilla Axelsson"
+        "name" : "Camilla Axelsson",
+        "id": 32,
+        "description": "V's pendlarkompis som flyter fram. Önskar att hon hade en originalutgåva av sin favoritsoffa Jokern. Fråga henne om roliga citat av hennes barn. Säger åt sin man <span class='link' data-link-to-id='30'>#30</span> att ringa V när han är jobbig."
     },
     {
-        "name" : "Emma Smith"
+        "name" : "Emma Smith",
+        "id": 34,
+        "description": "Lärare samt ordnings- och sorteringsfreak som står till förfogande om Dominion-lådan rasar samman. Har ett musikaliskt intresse och har på senare år även fått lära sig spela både trummor och plastgitarr. Är tydlig med vilken sida av sängen som tillhör hennes man <span class='link' data-link-to-id='36'>#36</span>. "
     },
     {
-        "name" : "Luke Smith"
+        "name" : "Luke Smith",
+        "id": 36,
+        "description": "Autstralienare som lärt sig det svenska språket galant, till och med uttrycket ''det knallar och går''. Estetiskt lagd och ser under spelkvällarna med H&V att det hellre blir fint på spelplanen än att det går bra, vilket stör hans mer tävlingsinriktade fru <span class='link' data-link-to-id='34'>#34</span>. Han är även V's goto när det gäller whisky eller cigarr."
     },
     {
-        "name" : "Ida Axelsson"
+        "name" : "Ida Axelsson",
+        "id": 37,
+        "description": "Bullmamma, fru till <span class='link' data-link-to-id='38'>#38</span> och ikväll efterrättsansvarig. Gick alltid och lade sig sist på alla åreläger för att inte missa något roligt, t.ex som när motsatsen till tvål reddes ut. Försov sig förr och trodde hon skulle till jobbet mitt i natten. Har ett specifikt skratt för snuskiga skämt."
     },
     {
-        "name" : "Linnea Gärderup"
+        "name" : "Linnea Gärderup",
+        "id": 39,
+        "description": "H's långbenta, löpstarka kusin och släktens extrafarmor som är bäst på att planera in kusinträffar och alla tycker om att umgås med. Går i mamma <span class='link' data-link-to-id='77'>#77's</span> fotspår gällande karriärsval efter diverse utflykter runt om i världen, bland annat New York, där hon agerade guide till H&V."
     },
     {
-        "name" : "My Brindmark "
+        "name" : "My Brindmark ",
+        "id": 41,
+        "description": "Nybliven Finspångsbo med rötter i Åtvidaberg och förflutet i Luleå. Fick sambon <span class='link' data-link-to-id='43'>#43</span> på fall för att hennes mamma sa att hon var snäll och det stämde. Övade sina pianokunskaper i Sonstorps missionskyrka när V bodde där."
     },
     {
-        "name" : "Mattias Ström"
+        "name" : "Mattias Ström",
+        "id": 43,
+        "description": "Utbildad chastbilslaffis som fastnat under en viadukt. Även utbildad både brandman och brandingenjör som nyligen bytt ut Luleå och återigen flyttat till Finspång tillsammans med <span class='link' data-link-to-id='41'>#41</span>. Smög förra året fram ett barn men har lika få sömntimmar som tidigare. Hittade en gång sina nycklar i en matlåda i kylen."
     },
     {
-        "name" : "Roger Pettersson"
+        "name" : "Roger Pettersson",
+        "id": 45,
+        "description": "Gammal jobbarkompis till V som till vardags jobbar i Tool's corner på Siemens, kvällstid är ordförande i vägföreningen men på helger förvandlas till Fab Rogga när han, sambo <span class='link' data-link-to-id='46'>#46</span> och familj kollar mello. Kallas pirat-Roger sedan han beställde en piratskiva med Windows XP från Siemens IT-support, <span class='link' data-link-to-id='67'>#67</span> levererade gladeligen detta. "
     },
-    {
-        "name" : "Ralf Alvarsson"
+        {
+        "name" : "Christina Andersson",
+        "id": 47,
+        "description": "Personlig assistent med humorn och skrattet nära till hands. Har hemma infört begreppet ''gristorsdag''' för att hon och mannen <span class='link' data-link-to-id='48'>#48</span> ska ha mindre att göra på fredagen. Tröttnade på Gryts skärgård och bytte husvagnsplatsen till Ruda gård vid Tisnaren."
     },
-    {
-        "name" : "Hanna Alvarsson"
+        {
+        "name" : "Hanna Alvarsson",
+        "id": 49,
+        "description": "Sångfågel som till vardags jobbar på Nanolfsvillan. Omtänksam som få både mot sin familj och man <span class='link' data-link-to-id='47'>#47</span>, men också hjälpsam mot alla andra och år efter år fixar med kyrkans Luciatåg."
     },
     {
-        "name" : "Magnus Freij"
+        "name" : "Magnus Freij",
+        "id": 51,
+        "description": ""
     },
     {
-        "name" : "Lisette Freij"
+        "name" : "Lisette Freij",
+        "id": 53,
+        "description": ""
     },
     {
-        "name" : "Anette Carlsson"
+        "name" : "Anette Carlsson",
+        "id": 55,
+        "description": ""
     },
     {
-        "name" : "Leo Koljo"
+        "name" : "Leo Koljo",
+        "id": 57,
+        "description": ""
     },
     {
-        "name" : "Eva-Lisa Koljo"
+        "name" : "Eva-Lisa Koljo",
+        "id": 59,
+        "description": ""
     },
     {
-        "name" : "Simon Axelsson"
+        "name" : "Simon Axelsson",
+        "id": 38,
+        "description": "Har ett sömnförstadie med öppna skelande ögon. Har rest till Nya Zeeland tillsammans med V för att hälsa på sin dåvarande flickvän, numera fru <span class='link' data-link-to-id='37'>#37</span>. Följer många forum om strategispel och är alltid väl påläst inför spelkvällarna tillsammans med H&V. Framgångsrik bibelillustratör och indiemusikkonnässör."
     },
     {
-        "name" : "Andreas Rydh"
+        "name" : "Andreas Rydh",
+        "id": 40,
+        "description": "Musikintresserad ungdomsledare som skrattar för det mesta, till och med när han ber. Brinner för sport i allmänhet och innebandy i synnerhet. Fixar gärna spontana aktiviteter som innefattar volleyboll, grill och bad. Pratar inte så mycket om sin hund som <span class='link' data-link-to-id='37'>#37</span> inte tycker om."
     },
     {
-        "name" : "Malin Arlasjö"
+        "name" : "Malin Arlasjö",
+        "id": 42,
+        "description": "Barnsjuksköterska som förgyller H&V's fredagkvällar där hon stärker upp som stadig ledare. Träffade under volontärtiden i Sydafrika nuvarande sambon <span class='link' data-link-to-id='44'>#44</span> och stiftade även bekantskap med V första gången. Sedan flytten från Stockholm är största osäkerheten vilken ort man anger vid underskrifter häromkring."
     },
     {
-        "name" : "Markus Abrahamsson "
+        "name" : "Markus Abrahamsson ",
+        "id": 44,
+        "description": "Barndoms- grundeskoleklass- och fotbollskompis till V med brinnande bilinträsse som lett till ett antal slitna däck på såväl Mantorp som diverse närliggande frusna sjöar. Delar passion för mission i framförallt Sydafrika med sambon <span class='link' data-link-to-id='42'>#42</span>. Är huvudperson i den bästa bajshistorian någonsin."
     },
     {
-        "name" : "Anna-Carin Karlsson"
+        "name" : "Anna-Carin Karlsson",
+        "id": 46,
+        "description": "Blombindande tvåbarnsmamma som till vardags jobbar på Edqvist eller rastar hunden hemma i Sonstorp men på semestrarna gärna tar med familj och sambon <span class='link' data-link-to-id='45'>#45</span> till föräldrahemmet i Strömstad. Försåg V med chilinäring till odlingen på Siemens."
     },
     {
-        "name" : "Peter Andersson"
+        "name" : "Peter Andersson",
+        "id": 48,
+        "description": "Gammal jobbarkompis till V som kan socialisera sig med vem som helst och alltid har en passande anekdot oavsett situation. Tillsamans med frun <span class='link' data-link-to-id='50'>#50</span> en av de mesta husvagnsnördiga i sammanhanget som på Siemens håller ställningarna som ålderman, sheriff och Petta long-drive i Tools corner. Tillhör årgången som Gud glömde..."
     },
-    {
-        "name" : "Christina Andersson"
+        {
+        "name" : "Ralf Alvarsson",
+        "id": 50,
+        "description": "Kreativ fabrikör som gärna hjälper till med roliga idéer och uppsåt. Äger allt i spel- och teknikväg. Nödvändigt men löst tyglad av sin fru <span class='link' data-link-to-id='49'>#49</span>. Jobbar fortfarande hårt på att göra köttondemaj till nationell helgdag. Har varit grillmästare på en studentskiva hos Carola."
     },
     {
-        "name" : "Maria Freij"
+        "name" : "Maria Freij",
+        "id": 52,
+        "description": ""
     },
     {
-        "name" : "Jonas Freij"
+        "name" : "Jonas Freij",
+        "id": 54,
+        "description": ""
     },
     {
-        "name" : "Mattias Kratz"
+        "name" : "Mattias Kratz",
+        "id": 56,
+        "description": ""
     },
     {
-        "name" : "Linda Kratz"
+        "name" : "Linda Kratz",
+        "id": 58,
+        "description": ""
     },
     {
-        "name" : "Mathilda Carlsson"
+        "name" : "Mathilda Carlsson",
+        "id": 60,
+        "description": ""
     },
     {
-        "name" : "Emma Alander"
+        "name" : "Emma Alander",
+        "id": 61,
+        "description": ""
     },
     {
-        "name" : "Hanna Ohlsson"
+        "name" : "Hanna Ohlsson",
+        "id": 62,
+        "description": "God vän och respartner till H&V och projektledande värd för kvällens spektakel. När hon inte har järnkoll på bröllop har hon det på melodifestivalen eller andra virala event. Kan förhoppningsvis sedan hon blev tillsammans med <span class='link' data-link-to-id='64'>#64</span> slippa trehjulingen."
     },
     {
-        "name" : "Oskar Lööf"
+        "name" : "Oskar Lööf",
+        "id": 64,
+        "description": "Stolt ägare av en fin lägenhet i Stockholm tillsammans med <span class='link' data-link-to-id='62'>#62</span>. Insyltat i TV-branschen, håll er väl med honom om ni vill att ert postnummer ska bli draget. Föredrar en god rom framför dåligt kallprat."
     },
     {
-        "name" : "Samuel Wejde"
+        "name" : "Samuel Wejde",
+        "id": 66,
+        "description": "Harry Potter-nörden som har svårigheter att göra high five men ändå är stolt skapare av snyggaste skylten i lokalen. Har fetish för läder och miljömedvetenhet och är medgrundare av Stigstorpskampen. Bott på många olika platser men för tillfället i Linköping med sin fru <span class='link' data-link-to-id='68'>#68</span>."
     },
     {
-        "name" : "Johanna Wejde"
+        "name" : "Johanna Wejde",
+        "id": 68,
+        "description": "Förskoleläraren från Gotland som tänker med munnen. Lugnare temperament när hon åker mopedrally tillsammans med sin man <span class='link' data-link-to-id='66'>#66</span> än när hon spelar tv-spel. Kallas ibland för Wejde. Kom aldrig fram till Negerbyn..."
     },
     {
-        "name" : "Lydia Rydin"
+        "name" : "Lydia Rydin",
+        "id": 70,
+        "description": "Lydde Rydde, efter en fotoubildning på andra sidan Atlanten flyttade hon till Jönköping för att jobba på ICA men sysslar istället med annonsering på samma ort. Har hjälpt V med såväl bak av chokladmuffins som montering av möbler. Bjuder gärna in H&V till bad i Ramstorp trots att det tyvärr aldrig blir av."
     },
     {
-        "name" : "Andreas Alander"
+        "name" : "Andreas Alander",
+        "id": 72,
+        "description": "Kvällens kapellmästare med brinnande musikintresse och fantastisk sångröst. Student och gycklare som förhöjer H&V's och tonåringarnas lägerupplevelser när de föräras med hans närvaro som bra ledare och förebild. Tackar aldrig nej till ett snabbt sista åk med brädan i Lundsrappet."
     },
     {
-        "name" : "Ulrik Lundin"
+        "name" : "Ulrik Lundin",
+        "id": 74,
+        "description": "Är Sveriges svar på McGyver om han får spännband och en pannlampa. Äger tillsammans med frun <span class='link' data-link-to-id='75'>#75</span> hus med hyresrätter, sommarstuga och husvagn. Blir ibland osäker på vilket namn campingplatsen är bokad i."
     },
     {
-        "name" : "Bo Gärderup"
+        "name" : "Bo Gärderup",
+        "id": 76,
+        "description": ""
     },
     {
-        "name" : "Kjell Svensson"
+        "name" : "Kjell Svensson",
+        "id": 78,
+        "description": ""
     },
     {
-        "name" : "Thomas Johansson"
+        "name" : "Thomas Johansson",
+        "id": 80,
+        "description": ""
     },
     {
-        "name" : "Linda Johansson"
+        "name" : "Linda Johansson",
+        "id": 82,
+        "description": ""
     },
     {
-        "name" : "Matilda Blomgren"
+        "name" : "Matilda Blomgren",
+        "id": 63,
+        "description": "Starkare än sin man <span class='link' data-link-to-id='65'>#65</span> och en av kvällens omsorgsfulla värdar. Den första som upptäckte förlovningen mellan H&V. Har lovat V att bjuda på frukost varje lördag om han flyttar till Grytgöl (vi räknar med att erbjudandet kvarstår). Önskar att smeknamnet ''Tildo'' inte blir allmänt vedertaget."
     },
     {
-        "name" : "Rickard Blomgren"
+        "name" : "Rickard Blomgren",
+        "id": 65,
+        "description": "Människokännande värd som alltid skrattar helst, först och sist. En riktig hejare på mat som tillsammans med sin fru <span class='link' data-link-to-id='63'>#63</span> gärna fixar dubbel ost med dubbel spel för H&V och även förgyller deras fredagkvällar i kyrkan."
     },
     {
-        "name" : "Daniel Bark"
+        "name" : "Daniel Bark",
+        "id": 67,
+        "description": "Dagens ljud- och teknikansvarige värd som jobbar som webbutvecklare och snart flyr fältet mot Göteborg och flickvännen <span class='link' data-link-to-id='69'>#69</span>. Entusiast och språkkonstnär som gärna uppfinner nya ord men blir uttråkad av sömn. Stellan Skoogs trevligare afk-alterego. Troligtvis kvällens enda strypviltsvegetarian."
     },
     {
-        "name" : "Lisa Jacobsson"
+        "name" : "Lisa Jacobsson",
+        "id": 69,
+        "description": "Jobbar som sjuksköterska i Göteborg men söker nya utmaningar. Håller inte med sin pojkvän <span class='link' data-link-to-id='67'>#67</span> om att 7 kvart är allmänt vedertaget men 5 kvart däremot. Scout som alltid har fickkniven nära till hands, håll dig nära henne när krisen kommer..."
     },
     {
-        "name" : "Joakim Liebgott"
+        "name" : "Joakim Liebgott",
+        "id": 71,
+        "description": "Utbildad musiklärare med eget artistnamn som gör en grym imitation av Jonas Helgesson. Duktig på matlagning och går gärna bananas på bra kött. Har tillsammans med sin fru <span class='link' data-link-to-id='73'>#73</span> sina två ögonstenar Kajsa och Bodil. Formar ofta bara handen som en liten pil..."
     },
     {
-        "name" : "Olivia Liebgott"
+        "name" : "Olivia Liebgott",
+        "id": 73,
+        "description": "Snart färdigutbildad pastor som gjorde en pakt med H att inte missa ett enda Åre-läger efter 2015 (hur gick det för oss egentligen?) Konkurrerar ikväll om titeln ''bäst skratt''. Hennes man <span class='link' data-link-to-id='71'>#71</span> ställer sig frågande till om hon är golfspelare eller inte."
     },
     {
-        "name" : "Mona Lundin"
+        "name" : "Mona Lundin",
+        "id": 75,
+        "description": "Husmor som både syr, stöper ljus, virkar och kokar sylt när tillfälle bjuds och alltid har nära till skratt. Uppskattar de frekvent återkommande husvagnssemestrarna tillsammans med familjen, maken <span class='link' data-link-to-id='74'>#74</span> och H's familj, längtar dock snart hem till Stigstorpskatterna Mose och Rakel."
     },
     {
-        "name" : "Gertie Gärderup"
+        "name" : "Gertie Gärderup",
+        "id": 77,
+        "description": ""
     },
     {
-        "name" : "Anita Svensson"
+        "name" : "Anita Svensson",
+        "id": 79,
+        "description": ""
     },
     {
-        "name" : "Oscar Grundström"
+        "name" : "Oscar Grundström",
+        "id": 81,
+        "description": ""
     },
     {
-        "name" : "Sandra Svensson"
+        "name" : "Sandra Svensson",
+        "id": 83,
+        "description": ""
     },
     {
-        "name" : "Frida Sjöholm"
+        "name" : "Frida Sjöholm",
+        "id": 84,
+        "description": "Utbildad jurist som sadlat om till programmerare men gärna knäcker extra som sömmerska och smyckesmakare. Skapar alltid eventet för den årliga nyårsfesten hemma hos H&V, även om mannen <span class='link' data-link-to-id='85'>#85</span> står för den fysiska närvaron. Bäst på rundvisningar och fikaturnéer (vi hoppas på fler i Florida)."
     },
     {
-        "name" : "Anna Forsberg"
+        "name" : "Anna Forsberg",
+        "id": 86,
+        "description": "Lugn norrlänning som bor i Örebro där hon studerar till dataingenjör. Sysselsätter sig på fritiden med att baka surdegsbröd och tackar aldrig nej till en resa som inkluderar surfing. Efter hon träffade pojkvännen <span class='link' data-link-to-id='87'>#87</span> köpte hon skidutrustning och lärde sig även nyttja den."
     },
     {
-        "name" : "Jacob Bergvall"
+        "name" : "Jacob Bergvall",
+        "id": 88,
+        "description": "Trumslagande hobbysnickrare som till sist, efter vissa motgångar, ändå fick sin inbjudan till dagens event. Andas beachvolleyboll på såväl sommar som vinter, gärna med sambon <span class='link' data-link-to-id='89'>#89</span> men har inget emot att sätta sin autograf på en och annan bok också. Haft många R&D-möten på Siemens tillsammans med V."
     },
     {
-        "name" : "Linda Thyselius"
+        "name" : "Linda Thyselius",
+        "id": 90,
+        "description": ""
     },
     {
-        "name" : "Sebastian Thyselius"
+        "name" : "Sebastian Thyselius",
+        "id": 92,
+        "description": ""
     },
     {
-        "name" : "Kajsa-Stina Hedback"
+        "name" : "Kajsa-Stina Hedback",
+        "id": 94,
+        "description": "Glad och social tjej med smittsamt skratt från Romme (OBS! Inte Råmme!!!). Jobbar med att kostruera flygplan med missiler. Köpte <<24>> kg gullök efter hon skaffat ny lägenhet tillsammans med pojkvännen <span class='link' data-link-to-id='95'>#95</span>. Tredje gången gillt (om du inte lyssnar på råd från svärfar). "
     },
     {
-        "name" : "Joachim Malmlöv"
+        "name" : "Joachim Malmlöv",
+        "id": 96,
+        "description": ""
     },
     {
-        "name" : "Lovisa Malmlöv"
+        "name" : "Lovisa Malmlöv",
+        "id": 98,
+        "description": ""
     },
     {
-        "name" : "Jennifer Hallqvist"
+        "name" : "Jennifer Hallqvist",
+        "id": 100,
+        "description": "Härlig tjej med både skarpt huvud och sikte som lär sig allt om agronomyrket och studentlivet i Uppsala. Ordnar mysiga bastubad hemma i Boda för H&V och hade en gång fler höns än många kan räkna. Önskade roll som servitris ikväll. (Hoppas det är ok att ditt namn står med här istället?)"
     },
     {
-        "name" : "Rebecka Gärderup"
+        "name" : "Rebecka Gärderup",
+        "id": 102,
+        "description": ""
     },
     {
-        "name" : "Simon Karlsson"
+        "name" : "Simon Karlsson",
+        "id": 104,
+        "description": "Simme-boi är H's ordningsamma lillebror och personliga, ofrivilliga värmekamin som snart sett samtliga klipp som finns på youtube. Hjälper gärna H&V med både arbete och inredning i huset och planerar redan hur sitt eget ska se ut. Vadå?!?"
     },
     {
-        "name" : "Petrus Lundin"
+        "name" : "Petrus Lundin",
+        "id": 106,
+        "description": "Blev till sommaren klar med grundskolan och börjar i höst på gymnasiet och byggprogrammet. Har ett brinnande intresse för allt som går fort, vattenscooter, wakeboard, fyrhjuling men i synnerhet mopeder."
     },
     {
-        "name" : "Felicia Freij"
+        "name" : "Felicia Freij",
+        "id": 108,
+        "description": ""
     },
     {
-        "name" : "Alexander Sjöholm"
+        "name" : "Alexander Sjöholm",
+        "id": 85,
+        "description": "Svälthagsprinsen som flyttade till San Fransisco tillsammans med frun <span class='link' data-link-to-id='84'>#84</span> pga sociala medier. Har alla spel till Oculus Rift och hipstertendenser som inkluderar ölbryggning, surdegsbröd och skägg. Ser alltid till att träffa H&V för lite Zelda och Super Smash när han är i Sverige."
     },
     {
-        "name" : "Hannes Andersson"
+        "name" : "Hannes Andersson",
+        "id": 87,
+        "description": ""
     },
     {
-        "name" : "Mathilda Westerling"
+        "name" : "Mathilda Westerling",
+        "id": 89,
+        "description": "Pärlande skogslivsfantast som jobbar som sjuksköterska och är, tillsammans med hennes familj, Linghemsmästare i frikyrklig ungdomsverksamhet. Har villa, vovve och Volvo BMW tillsammans med sambon <span class='link' data-link-to-id='88'>#88</span> och styr, snart enligt traditionen, trevliga volleyboll- och glöggfester."
     },
     {
-        "name" : "Erik Forsner"
+        "name" : "Erik Forsner",
+        "id": 91,
+        "description": "Studerande dataingenjör och lyriker som gärna styr lekar, musik-quiz och bjuder på sig själv eller billys-snittar. Har under universitetstiden delat en hel del kurser och uppskattade luncher med V, trots viss väntetid. Tycker inte om när låren klibbar ihop när han har kjol, sambon <span class='link' data-link-to-id='93'>#93</span> föreslog cykelbyxor som lösning."
     },
     {
-        "name" : "Alexandra Frantz"
+        "name" : "Alexandra Frantz",
+        "id": 93,
+        "description": "Tacklande general som gillar hästkorv från Dalarna och har efter universitetsutbildningen fått jobb på Toyota i Mjölby. Överskattar hur välartikulerad hon är med munnen full. Delar både katten Fenix och lägenheten i Ryd med sambon <span class='link' data-link-to-id='91'>#91</span>."
     },
     {
-        "name" : "Christoffer Sjöholm"
+        "name" : "Christoffer Sjöholm",
+        "id": 95,
+        "description": "Gitarrspelande på-spåret-vinnare som gärna tar med H&V och flickvännen <span class='link' data-link-to-id='94'>#94</span> på wakeboard-turer på somrarna. Delar inte sötsug med många och fick som liten inte ha sin medhavda gurka i fruktsalladen i skolan. Delade H's första och enda konsertupplevelse i San Fransisco. ''Jag är ashungrig...''"
     },
     {
-        "name" : "Martin Larsson"
+        "name" : "Martin Larsson",
+        "id": 97,
+        "description": "Dataspelande Reddit-fanatiker med viss svaghet för Nicolas Cage men främst föredrar Star Wars. Är otippat tävlingsinriktad trots att han aldrig blir arg. Delar både synfel och boende i Lotorp med sambon <span class='link' data-link-to-id='99'>#99</span> och slipper äntligen lukten av död i lägenheten."
     },
     {
-        "name" : "Elin Karlsson"
+        "name" : "Elin Karlsson",
+        "id": 99,
+        "description": "H's ''töntiga'' lillasyster och lekkamrat i tidig ålder vad gällde barbie och duplo etc. som alltid är snyggt klädd efter att otaliga outfits testats. Kan allt om kontinentalsängar, och numera även stämplar och skyltar sedan jobbombytet till Fröbergs i Lotorp, där hon, trots att hon aldrig varit innan H tog körkört, nu bor tillsammans med sambon <span class='link' data-link-to-id='97'>#97</span>."
     },
     {
-        "name" : "Linnea Lundin"
+        "name" : "Linnea Lundin",
+        "id": 101,
+        "description": "Nybliven mössviftande student som inleder vuxenlivet med arbete på ICA. Är en fena på rubiks kub så länge hon får lite assistans av V. Blev nyligen stoppad av polisen mitt i natten, att titta på hus med vännerna verkade tydligen mer uppseendeväckande än önskvärt."
     },
     {
-        "name" : "Jessika Hallqvist"
+        "name" : "Jessika Hallqvist",
+        "id": 103,
+        "description": "Smittsamt glad tjej med viss förkärlek för konstiga mössor, vikta pappershästar och långa resor. Har trots idel utlandsutflykter sedan studenten enbart missat ett flyg under sin globetrotter-karriär. SKÄNKTE bort en flakmoppe när de rensade hemma! Har haft en grunka i handleden..."
     },
     {
-        "name" : "Emil Gärderup"
+        "name" : "Emil Gärderup",
+        "id": 105,
+        "description": "H's längsta kusin som är ''brorsan'' för många fler än bara sina systrar <span class='link' data-link-to-id='39'>#39</span> och <span class='link' data-link-to-id='102'>#102</span>. Har tillsammans med <span class='link' data-link-to-id='104'>#104</span> eget kodord för fika med farmor <span class='link' data-link-to-id='7'>#7</span>. Är Janne Barks överman i armbrytning och tar löpet om så krävs. Strateg som aldrig drar sig för ett parti Seven Wonders eller Settlers tillsammans med H&V."
     },
     {
-        "name" : "David Freij"
+        "name" : "David Freij",
+        "id": 107,
+        "description": ""
     },
     {
-        "name" : "Melissa Freij"
+        "name" : "Melissa Freij",
+        "id": 109,
+        "description": ""
     },
     {
-        "name" : "Lennart Freij"
+        "name" : "Lennart Freij",
+        "id": 9,
+        "description": ""
     },
     {
-        "name" : "Kerstin Freij "
+        "name" : "Kerstin Freij",
+        "id": 8,
+        "description": ""
     },
     {
-        "name" : "Margareta Karlsson"
+        "name" : "Margareta Karlsson",
+        "id": 7,
+        "description": ""
     },
     {
-        "name" : "Lars Karlsson"
+        "name" : "Lars Karlsson",
+        "id": 4,
+        "description": "H's superhändiga snapchattande far med fäbless för fina bilar som sällan är på lyset men kan elen. Hjälper flitigt till med mycket men skickar helst sin fru <span class='link' data-link-to-id='3'>#3</span> när det gäller föräldramöte. Kollar gärna Lost eller andra serier tillsammans med H när han inte sover i soffan eller distraheras av att locka på katten."
     },
     {
-        "name" : "Tina Karlsson"
+        "name" : "Tina Karlsson",
+        "id": 3,
+        "description": ""
     },
     {
-        "name" : "Victor"
+        "name" : "Victor",
+        "id": 2,
+        "description": ""
     },
     {
-        "name" : "Hanna"
+        "name" : "Hanna",
+        "id": 1,
+        "description": ""
     },
     {
-        "name" : "Lars-Erik Andersson"
+        "name" : "Lars-Erik Andersson",
+        "id": 6,
+        "description": ""
     },
     {
-        "name" : "Catharina Carlsson"
+        "name" : "Catharina Carlsson",
+        "id": 5,
+        "description": ""
     },
     {
-        "name" : "Anna-Lisa Carlsson"
+        "name" : "Anna-Lisa Carlsson",
+        "id": 10,
+        "description": ""
     },
     {
-        "name" : "Ragnvi Freij"
+        "name" : "Ragnvi Freij",
+        "id": 11,
+        "description": ""
     },
     {
-        "name" : "Gunnar Freij"
+        "name" : "Gunnar Freij",
+        "id": 12,
+        "description": ""
     }
 ]

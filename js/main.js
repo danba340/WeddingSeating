@@ -14,6 +14,26 @@ var addRule = (function (style) {
     };
 })(document.createElement("style"));
 
+var openMarker = (id) => {
+    markers.removeClass('active');
+    speechBubble.html('');
+    speechBubble.hide();
+    let index = $('.marker[data-id="'+ id +'"]').data('index');
+    $('.marker[data-id="'+ id +'"]').addClass('active');
+    speechBubble.html('<div class="name">'+ guests[index].name +"</div> " + guests[index].description);
+    speechBubble.find('.link').click(function(el){
+        let linkId = $(el.target).data('link-to-id');
+        openMarker(linkId);
+    });
+    speechBubble.css('top', parseInt(guests[index].y) + 9 + '%');
+    addRule(".speech-bubble:after", {
+        left: (parseInt(guests[index].x) + 6) + '%',
+    });
+    if(speechBubble.html().length) {
+        speechBubble.show();
+    }
+}
+
 logo.click(() => {
     logoClicks += 1;
     if( logoClicks > 4 ) {
@@ -72,7 +92,7 @@ guests.forEach((guest, index) => {
     let htmlOption = `<option value="${ index }">${ guest.name }</option>`;
     selectPerson.append(htmlOption);
     let marker = 
-    `<div data-index="${ index }" style="top:${ guest.y };left:${ guest.x };" class="marker">
+    `<div data-index="${ index }" data-id="${ guest.id }" style="top:${ guest.y };left:${ guest.x };" class="marker">
     </div>`
     spotsWrapper.append(marker);
 });
@@ -91,6 +111,10 @@ markers.click((marker) => {
     let index = parseInt(marker.target.getAttribute('data-index'));
     $(marker.target).addClass("active");
     speechBubble.html('<div class="name">'+ guests[index].name +"</div> " + guests[index].description);
+    speechBubble.find('.link').click(function(el){
+        let linkId = $(el.target).data('link-to-id');
+        openMarker(linkId);
+    });
     speechBubble.css('top', parseInt(guests[index].y) + 9 + '%');
     addRule(".speech-bubble:after", {
         left: (parseInt(guests[index].x) + 6) + '%',
@@ -99,7 +123,10 @@ markers.click((marker) => {
         speechBubble.show();
     }
 });
-speechBubble.click(() => {
+speechBubble.click((event) => {
+    if ( $(event.target).hasClass('link') ) {
+        return;
+    }
     speechBubble.hide();
     markers.removeClass('active');
 });
