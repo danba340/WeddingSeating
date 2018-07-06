@@ -93,6 +93,7 @@ guests.forEach((guest, index) => {
     selectPerson.append(htmlOption);
     let marker = 
     `<div data-index="${ index }" data-id="${ guest.id }" style="top:${ guest.y };left:${ guest.x };" class="marker">
+    ${guest.id}
     </div>`
     spotsWrapper.append(marker);
 });
@@ -110,7 +111,7 @@ markers.click((marker) => {
     speechBubble.hide();
     let index = parseInt(marker.target.getAttribute('data-index'));
     $(marker.target).addClass("active");
-    speechBubble.html('<div class="name">'+ guests[index].name +"</div> " + guests[index].description);
+    speechBubble.html('<div class="name">'+ guests[index].id + '. ' + guests[index].name +"</div> " + guests[index].description);
     speechBubble.find('.link').click(function(el){
         let linkId = $(el.target).data('link-to-id');
         openMarker(linkId);
