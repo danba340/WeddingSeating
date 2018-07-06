@@ -20,7 +20,7 @@ var openMarker = (id) => {
     speechBubble.hide();
     let index = $('.marker[data-id="'+ id +'"]').data('index');
     $('.marker[data-id="'+ id +'"]').addClass('active');
-    speechBubble.html('<div class="name">'+ guests[index].name +"</div> " + guests[index].description);
+    speechBubble.html('<div class="name">'+ guests[index].id + '. ' + guests[index].name +"</div> " + guests[index].description);
     speechBubble.find('.link').click(function(el){
         let linkId = $(el.target).data('link-to-id');
         openMarker(linkId);
